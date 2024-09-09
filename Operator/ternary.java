@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/*This is a example of ternary operator*/
 class ternary {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
