@@ -9,6 +9,5 @@ class unary {
         System.out.println("The post-increment number is ::" + n++);
         System.out.println("The pre-increment number is ::" + ++n);
 
-
     }
 }
