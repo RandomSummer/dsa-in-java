@@ -13,5 +13,7 @@ class swapTwoNumber{
         System.out.println("Before swap :");
         System.out.println("a = " + a + " b = " + b);
         swap(a, b);
+        System.out.println("After swapping (outside function):");
+        System.out.println("a = " + a + " b = " + b);
     }
 }
