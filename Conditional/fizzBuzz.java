@@ -18,6 +18,7 @@ class fizzBuzz {
             else {
                 System.out.println(n);
             }
+            n--;
         }
         sc.close();
     }
