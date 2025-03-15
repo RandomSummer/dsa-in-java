@@ -24,6 +24,6 @@ Explanation: There are 11 children but only 7 candies in total, so it is impossi
 
 3. Constraints:
 
-1 <= candies.length <= 105
-1 <= candies[i] <= 107
-1 <= k <= 1012
+` 1 <= candies.length <= 105 `
+` 1 <= candies[i] <= 107 `
+` 1 <= k <= 1012 `
