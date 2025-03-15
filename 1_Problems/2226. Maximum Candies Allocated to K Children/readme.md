@@ -1,6 +1,6 @@
 ## 2226. Maximum Candies Allocated to K Children
 
-Type : Medium
+1. Type : Medium
 
 Hint: You are given a 0-indexed integer array candies. Each element in the array denotes a pile of candies of size candies[i]. You can divide each pile into any number of sub piles, but you cannot merge two piles together.
 
@@ -10,7 +10,7 @@ Return the maximum number of candies each child can get.
 
  
 
-Example 1:
+2. Example 1:
 
 Input: candies = [5,8,6], k = 3
 Output: 5
@@ -22,7 +22,7 @@ Output: 0
 Explanation: There are 11 children but only 7 candies in total, so it is impossible to ensure each child receives at least one candy. Thus, each child gets no candy and the answer is 0.
  
 
-Constraints:
+3. Constraints:
 
 1 <= candies.length <= 105
 1 <= candies[i] <= 107
